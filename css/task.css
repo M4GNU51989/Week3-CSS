@@ -1,0 +1,24 @@
+body{background-color: aliceblue;}
+.koostisosad{
+border: 2px solid black;
+width: 50%;
+margin: 1rem auto;
+
+}
+.osad{
+border: 1px solid black; 
+margin: 1rem auto;   
+}
+.juhised{
+border: 1px solid black;
+width: 50%;
+margin: 1rem auto;
+}
+.juhised ol{
+    width: 75%;
+    margin: 1rem auto;
+}
+.jalus{
+    width: 50%;
+margin: 1rem auto;
+}
